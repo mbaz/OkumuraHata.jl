@@ -1,0 +1,8 @@
+name = "OkumuraHata"
+uuid = "ab497f44-5a16-11e9-1b9e-15494f8193b6"
+authors = ["Miguel Bazdresch <miguelb@2pif.info>"]
+version = "0.1.0"
+
+[deps]
+NumericIO = "6c575b1c-77cb-5640-a5dc-a54116c90507"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
